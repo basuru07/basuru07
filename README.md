@@ -82,12 +82,12 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/basuru07/Portfolio_WebSite">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=basuru07&repo=Portfolio_WebSite&theme=radical&show_owner=true&bg_color=0,000000,000000&title_color=c56a90&text_color=ffffff" alt="Portfolio_WebSite" />
-        </a>
-      </p>
+      <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
+<p align="center">
+  <a href="https://github.com/basuru07">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basuru07&langs_count=3&theme=dark&bg_color=000000&title_color=c56a90&text_color=ffffff" alt="Top Languages" />
+  </a>
+</p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
