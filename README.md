@@ -31,7 +31,7 @@
 
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
+<h2 align="center">🧑‍💻Tᴇᴄʜ sᴛᴀᴄᴋ🧑‍💻</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -117,9 +117,11 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Pablo%20Picasso&quote=Every%20act%20of%20creation%20is%20first%20an%20act%20of%20destruction.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Hard%20work%20beats%20talent%20when%20talent%20doesn%27t%20work%20hard.&theme=dark&bg_color=000000&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
+
 
 
 <!--Contact Section--> 
