@@ -52,12 +52,6 @@
 </div>
 
 <div align="center">
-  <a href="http://www.github.com/basuru07">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=basuru07&bg_color=1c1917&color=64748b&line=0891b2&point=64748b&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-  </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/basuru07" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basuru07&langs_count=4&title_color=22c55e&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
   </a>
