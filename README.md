@@ -7,26 +7,25 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ BASURU! 
-*Digital Craftsman (Developer / Programmer)*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ʙᴀsᴜʀᴜ ʏᴀsᴀʀᴜᴡᴀɴ! 
+*Mobile & Web App Developer and Tech Enthusiast*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I'm a passionate developer specializing in mobile app and web technologies, focusing on creating efficient, scalable, and user-friendly solutions. I’m always eager to explore new technologies and stay ahead in the ever-evolving tech landscape. </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
+- ✍ I write technical blogs, You can visit my blog site at [MEDIUM](https://medium.com/@FlutBack).
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- 💻 Visit my [Portfolio](https://basuru07.github.io/basuruyasaruwan.github.io/) for more details about me.
 <!--End Intro-->
 
-<!--Profile Count Badge-->
+<!-- Profile Count Badge -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=basuru07&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="basuru07" style="padding-right:20px;" />
 </p>
+
 
 ---
 
@@ -42,13 +41,21 @@
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
+  <li>Exploring advanced features in Flutter for high-performance App Development.</li>
+  <li>Learning Linux basics, focusing on system management and commands.</li>
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
 </ul>
-  
 
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
 <!--Github stats Table--> 
@@ -94,11 +101,13 @@
 </table>
 <br />
 
-<!--Contribution Graph-->
+<!-- Contribution Graph -->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiran1689&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=basuru07&bg_color=000000&color=808080&line=a9a9a9&point=ffffff&area=false&hide_border=false" style="border-radius:15px;">
 </div>
+
+
 
 ---
 
