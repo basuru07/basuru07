@@ -53,48 +53,7 @@
 
 <br />
 
-<!-- Github Stats Table --> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/basuru07">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=basuru07&count_private=true&show_icons=true&theme=radical&bg_color=0,000000,000000&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/basuru07">
-          <img align="center" src="https://streak-stats.demolab.com?user=basuru07&theme=radical&background=0,000000,000000&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
-<p align="center">
-  <a href="https://github.com/basuru07">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basuru07&langs_count=3&theme=dark&bg_color=000000&title_color=c56a90&text_color=ffffff" alt="Top Languages" />
-  </a>
-</p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/basuru07">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=basuru07&limit=2&theme=radical&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,000000&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br />
 
 
 <!-- Contribution Graph -->
@@ -102,21 +61,6 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=basuru07&bg_color=000000&color=808080&line=a9a9a9&point=ffffff&area=false&hide_border=false" style="border-radius:15px;">
 </div>
-
-
-
----
-
-<!--Dynamic Quote card updates everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=Hard%20work%20beats%20talent%20when%20talent%20doesn%27t%20work%20hard.&theme=dark&bg_color=000000&author_color=ffeb95&accent_color=c56a90">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-
-
 
 
 <!--Contact Section--> 
