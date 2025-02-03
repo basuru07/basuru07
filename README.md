@@ -8,17 +8,12 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ʙᴀsᴜʀᴜ ʏᴀsᴀʀᴜᴡᴀɴ! 
-*Mobile & Web App Developer and Tech Enthusiast*
+
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I'm a passionate developer specializing in mobile app and web technologies, focusing on creating efficient, scalable, and user-friendly solutions. I’m always eager to explore new technologies and stay ahead in the ever-evolving tech landscape. </p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- ✍ I write technical blogs, You can visit my blog site at [MEDIUM](https://medium.com/@FlutBack).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://basuru07.github.io/basuruyasaruwan.github.io/) for more details about me.
+💻 Visit my [Portfolio](https://basuru07.github.io/basuruyasaruwan.github.io/) for more details about me.
 <!--End Intro-->
 
 <!-- Profile Count Badge -->
