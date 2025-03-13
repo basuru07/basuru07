@@ -87,7 +87,6 @@
 <ul align="left">
 <li>Exploring Flutter development and DevOps practices.</li>
 <li>Learning Linux basics and cloud computing with AWS/Azure.</li>
-<li>Improving software engineering skills and best practices.</li>
 </ul>
 
 <br />
