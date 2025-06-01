@@ -1,24 +1,12 @@
 <!--Banner-->
 ![Kiran1689 Banner Image](./banner.png)
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
+
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ʙᴀsᴜʀᴜ ʏᴀsᴀʀᴜᴡᴀɴ! 
 
 
-
-<!--Start Intro-->               
-<p align="left">I'm a passionate developer specializing in mobile app and web technologies, focusing on creating efficient, scalable, and user-friendly solutions. I’m always eager to explore new technologies and stay ahead in the ever-evolving tech landscape. </p>
-
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://basuru07.github.io/basuruyasaruwan.github.io/) for more details about me.
-<!--End Intro-->
 
 <!-- Profile Count Badge -->
 <p align="left">
@@ -82,16 +70,16 @@
 <a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
 </p>
 
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-<li>Exploring Flutter development and DevOps practices.</li>
-<li>Learning Linux basics and cloud computing with AWS/Azure.</li>
-</ul>
+
 
 <br />
+<br>
+<br>
+<br>
+<br>
+<br>
 
-
-
+<br>
 
 <!-- Contribution Graph -->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
